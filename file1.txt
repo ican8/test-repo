@@ -1,0 +1,5 @@
+write some text
+write another line
+
+added after running git add
+
